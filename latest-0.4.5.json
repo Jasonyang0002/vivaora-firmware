@@ -1,0 +1,9 @@
+{
+  "version": "0.4.5-r38-6400-base",
+  "generation": 263424,
+  "url": "https://viviaora.com/firmware/spm-l-2.0/0.4.5-r38-6400-base.bin",
+  "size": 1714336,
+  "sha256": "58fdb119a09662ba648ffd1fc342d28877e746c3be88e4d1567752c8c5a08c81",
+  "min_app": "0.2.18",
+  "kind": 0
+}

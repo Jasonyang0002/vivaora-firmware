@@ -1,0 +1,9 @@
+{
+  "version": "0.4.7-r40-6400-torque",
+  "generation": 263936,
+  "url": "https://viviaora.com/firmware/spm-l-2.0/0.4.7-r40-6400-torque.bin",
+  "size": 1715264,
+  "sha256": "1bdba5624c72fccbc5e8bc4f1856e421002394c6652db9fdf90120bf267dd7b3",
+  "min_app": "0.2.18",
+  "kind": 0
+}

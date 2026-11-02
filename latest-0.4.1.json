@@ -1,0 +1,9 @@
+{
+  "version": "0.4.1-r34-burst",
+  "generation": 262400,
+  "url": "https://viviaora.com/firmware/spm-l-2.0/0.4.1-r34-burst.bin",
+  "size": 1713360,
+  "sha256": "8a0c2fa25209269a7b383464d205ebf0a68d79163c49c5fd8bb87f242c25f33e",
+  "min_app": "0.2.18",
+  "kind": 0
+}

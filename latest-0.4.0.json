@@ -1,0 +1,9 @@
+{
+  "version": "0.4.0-r34-ota-ble",
+  "generation": 262144,
+  "url": "https://viviaora.com/firmware/spm-l-2.0/0.4.0-r34-ota-ble.bin",
+  "size": 1710784,
+  "sha256": "ca2f46f84e6328fb20493e792116a987b75d15d1243a21c0b2a5763fc3b6b90c",
+  "min_app": "0.2.17",
+  "kind": 0
+}

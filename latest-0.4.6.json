@@ -1,0 +1,9 @@
+{
+  "version": "0.4.6-r39-6400-impact",
+  "generation": 263680,
+  "url": "https://viviaora.com/firmware/spm-l-2.0/0.4.6-r39-6400-impact.bin",
+  "size": 1715248,
+  "sha256": "efe848943dfffa3c86d10b9d39ee73473b18f4fa42e34718887eb50714f49b09",
+  "min_app": "0.2.18",
+  "kind": 0
+}

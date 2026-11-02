@@ -1,0 +1,9 @@
+{
+  "version": "0.4.4-r37-stroke-accel",
+  "generation": 263168,
+  "url": "https://viviaora.com/firmware/spm-l-2.0/0.4.4-r37-stroke-accel.bin",
+  "size": 1714336,
+  "sha256": "ba4ea737e1634d29ed44fe77a15d18307c4fefcd3542f3f9c962b5cae7cfeeaa",
+  "min_app": "0.2.18",
+  "kind": 0
+}
